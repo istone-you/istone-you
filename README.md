@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Yu Ishii
 
-Please take a look at this page as well → https://istoneyou.net
+Please take a look at this page as well → https://istoneyou.me
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/istone/posts.svg)](http://qiita.com/istone)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/istone/contributions.svg)](http://qiita.com/istone)
